@@ -7,7 +7,7 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 media
-
+!Back-end/
 
 *.py[cod]
 *$py.class
